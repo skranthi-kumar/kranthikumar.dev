@@ -54,7 +54,7 @@ section{
 }
 .navbar a
 {
-    font-size: 1.7rem;
+    font-size: 2rem;
     color: var(--text-color);
     margin-left: 4rem;
     transition: .3s;
@@ -83,7 +83,7 @@ section{
 }
 .home-content h3
 {
-    font-size: 3rem;
+    font-size: 4rem;
     font-weight: 700;
 }
 span{
@@ -100,8 +100,8 @@ span{
 
 }
 img {
-    height: 500px;
-    width: 500px;
+    height: 650px;
+    width: 650px;
 }
 .social-media a
 {
