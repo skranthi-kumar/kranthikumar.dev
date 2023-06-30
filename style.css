@@ -221,3 +221,21 @@ img {
     border-radius: .6rem;
     margin-bottom: 2rem;
 }
+.education-content .content .year
+{
+    font-size: 1.5rem;
+    color: var(--main-color);
+    padding-bottom: .5rem;
+}
+.education-content .home-content .year
+{
+    padding-right: .5rem;
+}
+
+.education-content .content h3{
+    font-size: 2rem;
+}
+.education-content .content p{
+    font-size: 1.3rem;
+    padding-top: .5rem;
+}
